@@ -1,0 +1,11 @@
+content:
+  path: comments
+  fields:
+    - name: author
+      label: Name
+      placeholder: Your name
+      required: true
+    - name: message
+      label: Message
+      placeholder: Write your comment here
+      required: true
